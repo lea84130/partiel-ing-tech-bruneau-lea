@@ -1,0 +1,14 @@
+Exo-5 Dans un fichier txt: Définition de nodeJs 
+
+C'est un environnement d'execution en js. Il permet d'exécuter du code JavaScript en dehors du navigateur directement sur un serveur. C'est souvent utilisé pour créer des applications web rapides et évolutives avec une seule langue de programmation.
+
+Exo-6 Dans un fichier txt: Définition du backend
+
+Le back end désigne les parties du code d'une application ou d'un logiciel permettant son fonctionnement et inaccessibles à l'utilisateur. 
+
+Exo-7 Dans un fichier txt: Quel est la différence entre le Local storage et le session strorage
+
+Le localStorage a une durée de vie permanente, ce qui signifie que les données stockées restent disponibles même après la fermeture du navigateur.
+Au contraire, le sessionStorage a une durée de vie limitée. Cela signifie que les données stockées dans le sessionStorage seront automatiquement supprimées dès que la session de navigation sera fermée. 
+
+Avec le localStorage, les données peuvent être accédées et modifiées depuis n'importe quelle fenêtre du même site web alors que les données du sessionStorage sont limitées à la fenêtre qui les a créées.
